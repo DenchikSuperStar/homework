@@ -15,7 +15,7 @@ min = m % 60;
 h = (m -min) / 60;
 System.out.println(h+" часов" + min + " минут" + sec + " секунд");
 }
-Продолжите приведенный пример, добавьте расчет и вывод суток и недель.
+Продолжите приведенный пример, добавьте расчет и вывод сук и недель.
 */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
