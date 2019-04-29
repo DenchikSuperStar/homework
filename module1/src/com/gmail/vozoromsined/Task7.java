@@ -2,7 +2,7 @@ package com.gmail.vozoromsined;
 
 import java.util.Scanner;
 
-public class Task4_2 {
+public class Task7 {
     /*Задание 4.2
     Имеются два дома размерами a на b и c на d. Имеется участок размерами e на f.
     Проверить помещаются ли эти дома на данном участке. Стороны домов — параллельны

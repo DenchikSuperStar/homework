@@ -2,7 +2,7 @@ package com.gmail.vozoromsined;
 
 import java.util.Scanner;
 
-public class Task3_4 {
+public class Task5 {
     /*Задание 3.4
     Имеется целое число (любое), это число — сумма денег в рублях. Вывести это число,
     добавив к нему слово «рублей» в правильном падеже. Используйте if и else, a так же

@@ -2,7 +2,7 @@ package com.gmail.vozoromsined;
 
 import java.util.Scanner;
 
-public class Task3_2 {
+public class Task3 {
     /*Задание 3.2
 Введите число с клавиатуры в консоль JVM. Определите, является ли последняя
 цифра числа семеркой. Выведите ответ в консоль.

@@ -1,6 +1,6 @@
 package com.gmail.vozoromsined;
 
-public class Task5_1 {
+public class Task9 {
     /*Задание 5.1
       Имеется последовательность (массив) случайных чисел (ее можно генерировать с помощью
       Math.random() метода), найти и вывести наибольшее из них.*/

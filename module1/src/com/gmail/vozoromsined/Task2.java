@@ -2,7 +2,7 @@ package com.gmail.vozoromsined;
 
 import java.util.Scanner;
 
-public class Task3_1 {
+public class Task2 {
     /*Задание 3.1
 public static void main(String[] args) {
 int s = 3700;

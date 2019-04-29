@@ -2,7 +2,7 @@ package com.gmail.vozoromsined;
 
 import java.util.Scanner;
 
-public class Task4_3 {
+public class Task8 {
      /*Задание 4.3
      Используя цикл while, рассчитайте для введенного числа его факториал. Факториал числа
      n - это произведение всех натуральных чисел от 1 до n.
