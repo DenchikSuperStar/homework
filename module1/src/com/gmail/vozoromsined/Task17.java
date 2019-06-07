@@ -3,7 +3,7 @@ package com.gmail.vozoromsined;
 public class Task17 {
     /* Создать двухмерный квадратный массив, и заполнить его "бабочкой".*/
     public static void main(String[] args) {
-        int n=5;
+        int n=5;// можно задать любое n;
         int[][] array=new int[n][n];
         for(int i=0;i<array.length;i++){
             for(int j=i; j<array[i].length-i;j++){
